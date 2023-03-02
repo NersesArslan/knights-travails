@@ -5,7 +5,6 @@ module.exports = {
   entry: {
     index: "./src/index.js",
     print: "./src/print.js",
-    test: "./src/test.js",
   },
   devtool: "inline-source-map",
   devServer: {
